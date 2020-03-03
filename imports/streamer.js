@@ -1,0 +1,1 @@
+export default new Meteor.Streamer('stream');

@@ -1,0 +1,14 @@
+{
+  "name": "sv",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.7.6",
+    "denali-css": "^1.0.3",
+    "denali-icon-font": "^1.2.0",
+    "meteor-node-stubs": "^1.0.0",
+    "svelte": "^3.18.2"
+  }
+}
